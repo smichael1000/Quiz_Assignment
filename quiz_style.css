@@ -1,0 +1,34 @@
+body {
+ 
+	font-family: 'Dosis', sans-serif;
+	background-image: url('https://c4.wallpaperflare.com/wallpaper/871/347/726/anime-anime-girls-tongue-out-simple-background-white-background-hd-wallpaper-preview.jpg'), url('https://p4.wallpaperbetter.com/wallpaper/54/187/733/anime-girls-brunette-long-hair-dress-wallpaper-preview.jpg');
+	background-repeat:no-repeat, no-repeat;
+	background-position:right bottom, left bottom;
+	text-align: center;
+	
+
+}
+
+#red {
+	
+	color:red;
+	
+}
+
+#blue {
+	
+	color:blue;
+	
+}
+
+h1 {
+	
+	color:grey;
+	background-size: 1000px 200px;
+	
+}
+
+
+	
+
+	
